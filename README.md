@@ -1,4 +1,4 @@
-# Electron_microscopy_analysis
+# Electron & X-ray microscopy analysis
 
 The goal of these workflows is to automate and standardize the analysis of complex materials characterization data across multiple datasets in a quick and reproducible manner. Modern instruments, such as electron and X-ray microscopes, generate "spectrum-image" datasets contains a wealth of information. 
 
